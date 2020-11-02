@@ -1,0 +1,25 @@
+* {
+    font-family: 'Itim', cursive;
+} 
+
+h2 {
+    display: inline-block;
+    background-color: #a22;
+    width: 100%;
+    padding: 20px  0;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header {
+    margin: auto;
+}
+
+.inf-form {
+    margin: auto;
+}
+
+.inf-form form {
+    margin: auto;
+}
+
